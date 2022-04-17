@@ -19,4 +19,4 @@ Entries: date, open price, high price, low price, close price, adjust close pric
  author={Jafari, Alireza and Haratizadeh, Saman},
  journal={arXiv preprint arXiv:2203.11091},
  year={2022}
-}
+ }
