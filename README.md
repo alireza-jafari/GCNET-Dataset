@@ -12,3 +12,10 @@ Our dataset contains the historical data for 100 stocks with the largest market 
 ### Raw Price Data
 Format: CSV  
 Entries: date, open price, high price, low price, close price, adjust close price, volume  
+
+@article{jafari2022gcnet,
+  title={GCNET: graph-based prediction of stock price movement using graph convolutional network},
+  author={Jafari, Alireza and Haratizadeh, Saman},
+  journal={arXiv preprint arXiv:2203.11091},
+  year={2022}
+}
